@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "MyriadPro";
+
+    src: local("MyriadPro"), url("./fonts/myriad-pro-cufonfonts-webfont/MYRIADPRO-REGULAR.woff") format("truetype");
+}
